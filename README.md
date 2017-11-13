@@ -1,4 +1,4 @@
-# The-Open-Web-Spec
+# The Open Web Spec
 Specifications for any compliant projects to adhere to.
 
 ## What Is The Open Web Initiative?
